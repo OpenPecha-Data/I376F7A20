@@ -1,0 +1,25 @@
+id: I376F7A20
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:53:27.683973'
+last_modified: '2022-05-30T18:53:27.683978'
+parser: null
+source_metadata:
+  title: Drakkar Lobzang Palden
+  language: bo
+  description: 'Texts by and about Drakkar Lobzang Palden Tendzin Nyendrak (blo bzang
+    dpal ldan bstan ''dzin snyan grags, 1866–1929):'
+  volume:
+    fAA49:
+      title: Brief Biography of Drakkar Lobzang Palden
+      base_file: fAA49.txt
+      order: 1
+      parent: Biography
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
